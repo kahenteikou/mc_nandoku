@@ -1,0 +1,11 @@
+まぁ
+コードの一例として
+com.coat.homoというclassがabに
+com.coat.homo.sfxというメゾットがhdになった場合、
+(sfxはvoidとします。)
+構文は
+com.coat.homo -> ab
+    810:810:void sfx()-> hd
+
+構文上の810は
+おそらく行数だと思います。
